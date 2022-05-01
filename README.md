@@ -33,8 +33,8 @@ This free service can be used to edit and generate unlimited OpenAPI definitions
 > Links & Resources
 
 - 👉 [What is OpenAPI](https://stoplight.io/openapi) - Definition & Standards
-- 👉 OpenAPI the same as Swagger by RapidAPI
-- 👉 OpenAPI Guide - a comprehensive introduction
+- 👉 [OpenAPI the same as Swagger](https://rapidapi.com/blog/api-glossary/openapi/) by RapidAPI
+- 👉 [OpenAPI Guide](https://nonamesecurity.com/glossary/openapi) - a comprehensive introduction
 
 <br />
 
