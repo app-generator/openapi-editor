@@ -24,11 +24,11 @@ This free service can be used to edit and generate unlimited OpenAPI definitions
 
 > `Download Options`: **JSON**, `YAML` (soon)
 
----
+<br />
 
 ![OpenAPI Editor - Free, In-Browser tool for editing OpenAPI definitions](https://user-images.githubusercontent.com/51070104/166137630-68fbff6d-24b7-4cf7-9be0-706cb102b61e.gif)
 
---- 
+<br />
 
 > Links & Resources
 
