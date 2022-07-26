@@ -2,6 +2,8 @@
 
 In-Browser Developers Tool - Edit your OpenAPI definition directly in browser and download the generated JSON file. For newcomers, **OpenAPI** is an open-source format for designing `RESTful APIs` and `web services` that serves as a single source of truth for all parties involved in the software development process: developers, testers.
 
+> Note: Closed-source tool, free for AppSeed [PRO Users](https://appseed.us/terms/)
+
 - 👉 [OpenAPI Editor](https://appseed.us/generator/openapi/) - product page
 - 👉 Free [support](https://appseed.us/support/) via Email and [Discord](https://discord.gg/fZC6hup)
 
